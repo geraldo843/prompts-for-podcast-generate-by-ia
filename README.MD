@@ -94,4 +94,4 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Aliiro Geraldo](https://github.com/geraldo843)
+⌨️ com 💜 por [Alirio Geraldo](https://github.com/geraldo843)
